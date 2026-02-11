@@ -30,3 +30,5 @@ Mayur.B.C
 
 Conclusion-
 The Smart Water Dispenser demonstrates the practical implementation of embedded systems using sensors and actuators. It is a low-cost, efficient, and contactless solution for water dispensing applications.
+
+Note: Demo video and physical setup images are not included in this repository.
